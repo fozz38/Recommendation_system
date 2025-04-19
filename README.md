@@ -41,15 +41,15 @@ HTML, CSS (for the UI)
 ## Team Members
 This project was built collaboratively as part of a youth innovation initiative.
 
-Fayza Ahmed (AI & ML Development + Deployment)
+Fayza Ahmed Ewais
 
-Bilal Abdelrahman
+Belal Abdelrhman Fikry
 
-Esraa Mohamed
+Esraa Mamdouh Omar 
 
-Ahmed Mahmoud
+Ahmed Mahmoud Ahmed
 
-Youssef Abdelnasser
+Youssef Abdelnasser Ahmed
 
 ## 🇪🇬 Initiative
 This project was submitted as part of the "Innovative Youth Initiative" (مبادرة شباب مبتكرون) supported by the Ministry of Youth and Sports, Egypt.
