@@ -52,4 +52,4 @@ Ahmed Mahmoud Ahmed
 Youssef Abdelnasser Ahmed
 
 ## 🇪🇬 Initiative
-This project was submitted as part of the "Innovative Youth Initiative" (مبادرة شباب مبتكرون) supported by the Ministry of Youth and Sports, Egypt.
+This project was submitted as part of the "Innovative Youth Initiative" (Shabab Mobtakeron) supported by the Ministry of Youth and Sports, Egypt.
